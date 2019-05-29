@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shopping_List</string>
+    <!--<string name="action_settings">Settings</string>-->
+    //puts in recourses sort, add and clear
+    <!--<string name="action_sort">Sort List</string>-->
+    <string name="action_add">Add Item</string>
+    <string name="action_clear">Clear All</string>
+
+</resources>
